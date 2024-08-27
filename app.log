@@ -1,0 +1,233 @@
+2024-08-27 11:55:14,066 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 11:55:14,066 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 11:55:14,068 - INFO -  * Restarting with stat
+2024-08-27 11:55:28,739 - WARNING -  * Debugger is active!
+2024-08-27 11:55:28,743 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 11:56:27,515 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:27] "[32mGET /dashboard HTTP/1.1[0m" 308 -
+2024-08-27 11:56:27,645 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:27] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 11:56:27,810 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:27] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 11:56:28,060 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/css/main.css HTTP/1.1" 200 -
+2024-08-27 11:56:28,146 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-08-27 11:56:28,150 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/img/header.png HTTP/1.1" 200 -
+2024-08-27 11:56:28,164 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-27 11:56:28,441 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2024-08-27 11:56:28,730 - INFO - 127.0.0.1 - - [27/Aug/2024 11:56:28] "GET /dashboard/static/img/favicon.ico HTTP/1.1" 200 -
+2024-08-27 11:57:43,559 - INFO - 127.0.0.1 - - [27/Aug/2024 11:57:43] "GET / HTTP/1.1" 200 -
+2024-08-27 11:57:45,103 - INFO - 127.0.0.1 - - [27/Aug/2024 11:57:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-27 12:04:03,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 12:04:03,561 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 12:04:03,563 - INFO -  * Restarting with stat
+2024-08-27 12:04:17,698 - WARNING -  * Debugger is active!
+2024-08-27 12:04:17,701 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 12:04:18,037 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "[32mGET /dashboard/overview HTTP/1.1[0m" 302 -
+2024-08-27 12:04:18,062 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:04:18,563 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:04:18,568 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:04:18,569 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:04:18,829 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "GET / HTTP/1.1" 200 -
+2024-08-27 12:04:18,892 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:18] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:04:19,035 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:19] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:04:19,297 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:19] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:04:36,154 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:04:36,173 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:04:36,203 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:04:36,488 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:04:36,503 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:04:36,878 - INFO - 127.0.0.1 - - [27/Aug/2024 12:04:36] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:05:05,113 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:05:05,313 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:05:05,450 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:05:05,453 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:05:05,639 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:05:05,994 - INFO - 127.0.0.1 - - [27/Aug/2024 12:05:05] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:06:30,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 12:06:30,382 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 12:06:30,383 - INFO -  * Restarting with stat
+2024-08-27 12:06:45,139 - WARNING -  * Debugger is active!
+2024-08-27 12:06:45,142 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 12:06:45,487 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:45] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 12:06:45,506 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:45] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:06:45,671 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:45] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:06:45,871 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:45] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:06:45,873 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:45] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:06:46,038 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:46] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:06:46,534 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:46] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:06:53,576 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:53] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:06:53,780 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:53] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:06:53,908 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:53] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:06:53,909 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:53] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:06:54,105 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:54] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:06:54,554 - INFO - 127.0.0.1 - - [27/Aug/2024 12:06:54] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:07:20,903 - INFO -  * Detected change in 'C:\\Users\\ronde\\Desktop\\Ecole IA\\Certification\\E5\\rennes_traffic_ko\\app.py', reloading
+2024-08-27 12:07:21,671 - INFO -  * Restarting with stat
+2024-08-27 12:07:53,471 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 12:07:53,472 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 12:07:53,473 - INFO -  * Restarting with stat
+2024-08-27 12:08:08,533 - WARNING -  * Debugger is active!
+2024-08-27 12:08:08,536 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 12:08:23,815 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:23] "[32mGET /dashboard/overview HTTP/1.1[0m" 302 -
+2024-08-27 12:08:23,832 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:23] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:08:24,183 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:08:24,291 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:08:24,293 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:08:24,510 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:08:24,648 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:08:24,915 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:24] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:08:43,504 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:43] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:08:43,521 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:43] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:08:43,643 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:43] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 12:08:43,831 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:43] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:08:43,862 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:43] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:08:44,218 - INFO - 127.0.0.1 - - [27/Aug/2024 12:08:44] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:10:57,500 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:57] "[32mGET /dashboard/overview HTTP/1.1[0m" 302 -
+2024-08-27 12:10:57,751 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:57] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:10:57,813 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:57] "GET /dashboard/static/css/main.css HTTP/1.1" 200 -
+2024-08-27 12:10:58,082 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:58] "GET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-08-27 12:10:58,092 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:58] "GET /dashboard/static/img/header.png HTTP/1.1" 200 -
+2024-08-27 12:10:58,099 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:58] "GET /dashboard/static/js/app.js HTTP/1.1" 200 -
+2024-08-27 12:10:58,396 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:58] "GET /dashboard/static/pages/overview.html HTTP/1.1" 200 -
+2024-08-27 12:10:58,708 - INFO - 127.0.0.1 - - [27/Aug/2024 12:10:58] "GET /dashboard/static/img/favicon.ico HTTP/1.1" 200 -
+2024-08-27 12:11:11,810 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:11] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:11:11,929 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:11] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:11:12,131 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:12] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:11:12,133 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:12] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:11:12,284 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:12] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:12,592 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:12] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:11:35,774 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:35] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 12:11:35,931 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:35] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 12:11:36,095 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:36] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 12:11:36,099 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:36] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 12:11:36,141 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:36] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 12:11:36,452 - INFO - 127.0.0.1 - - [27/Aug/2024 12:11:36] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 12:14:02,164 - INFO -  * Detected change in 'C:\\Users\\ronde\\Desktop\\Ecole IA\\Certification\\E5\\rennes_traffic_ko\\app.py', reloading
+2024-08-27 12:14:02,926 - INFO -  * Restarting with stat
+2024-08-27 13:53:54,124 - INFO - Scheduler started
+2024-08-27 13:54:02,410 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 13:54:02,414 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 13:54:02,441 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:54:02,441 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:54:02,443 - INFO -  * Restarting with stat
+2024-08-27 13:54:08,726 - INFO - Scheduler started
+2024-08-27 13:54:17,635 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 13:54:17,638 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 13:54:17,645 - WARNING -  * Debugger is active!
+2024-08-27 13:54:17,655 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 13:54:37,439 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:37] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 13:54:37,458 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:37] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 13:54:37,784 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:37] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 13:54:37,793 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:37] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 13:54:37,795 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:37] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 13:54:38,165 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:38] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 13:54:38,350 - INFO - 127.0.0.1 - - [27/Aug/2024 13:54:38] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 13:57:05,593 - INFO -  * Detected change in 'C:\\Users\\ronde\\Desktop\\Ecole IA\\Certification\\E5\\rennes_traffic_ko\\app.py', reloading
+2024-08-27 13:57:05,597 - INFO - Scheduler has been shut down
+2024-08-27 13:57:06,484 - INFO -  * Restarting with stat
+2024-08-27 13:57:12,587 - INFO - Scheduler started
+2024-08-27 13:57:12,754 - INFO - Scheduler has been shut down
+2024-08-27 13:57:13,416 - INFO - Scheduler has been shut down
+2024-08-27 13:57:29,186 - INFO - Scheduler started
+2024-08-27 13:57:38,090 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 13:57:38,095 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 13:57:38,108 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 13:57:38,108 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 13:57:38,111 - INFO -  * Restarting with stat
+2024-08-27 13:57:44,300 - INFO - Scheduler started
+2024-08-27 13:57:52,281 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 13:57:52,287 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 13:57:52,297 - WARNING -  * Debugger is active!
+2024-08-27 13:57:52,300 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 13:57:52,625 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:52] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 13:57:52,644 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:52] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 13:57:52,758 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:52] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 13:57:52,983 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:52] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 13:57:53,075 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:53] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 13:57:53,849 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:53] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 13:57:53,894 - INFO - 127.0.0.1 - - [27/Aug/2024 13:57:53] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 13:58:26,433 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:26] "POST /dashboard/login HTTP/1.1" 200 -
+2024-08-27 13:58:26,627 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:26] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 13:58:26,764 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:26] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 13:58:26,766 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:26] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 13:58:26,950 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:26] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 13:58:27,421 - INFO - 127.0.0.1 - - [27/Aug/2024 13:58:27] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 14:04:52,424 - INFO -  * Detected change in 'C:\\Users\\ronde\\Desktop\\Ecole IA\\Certification\\E5\\rennes_traffic_ko\\app.py', reloading
+2024-08-27 14:04:52,424 - INFO - Scheduler has been shut down
+2024-08-27 14:04:53,219 - INFO -  * Restarting with stat
+2024-08-27 14:04:59,373 - INFO - Scheduler started
+2024-08-27 14:05:07,856 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 14:05:07,860 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 14:05:07,867 - WARNING -  * Debugger is active!
+2024-08-27 14:05:07,872 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 14:05:08,189 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "[32mGET /dashboard/overview HTTP/1.1[0m" 302 -
+2024-08-27 14:05:08,207 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 14:05:08,331 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 14:05:08,557 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 14:05:08,559 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 14:05:08,661 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:08] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 14:05:09,018 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:09] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 14:05:09,111 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:09] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 14:05:34,505 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:34] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 14:05:34,821 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:34] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 14:05:34,839 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:34] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 14:05:35,084 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:35] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 14:05:35,159 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:35] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 14:05:35,223 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:35] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 14:05:35,721 - INFO - 127.0.0.1 - - [27/Aug/2024 14:05:35] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 14:07:22,553 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:22] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 14:07:22,557 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:22] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 14:07:22,804 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:22] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 14:07:22,885 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:22] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 14:07:22,887 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:22] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 14:07:23,185 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:23] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 14:07:23,688 - INFO - 127.0.0.1 - - [27/Aug/2024 14:07:23] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 14:09:07,275 - INFO - Scheduler has been shut down
+2024-08-27 14:09:08,042 - INFO - Scheduler has been shut down
+2024-08-27 14:11:26,880 - INFO - Scheduler started
+2024-08-27 14:11:35,021 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 14:11:35,025 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 14:11:35,044 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-27 14:11:35,044 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-27 14:11:35,045 - INFO -  * Restarting with stat
+2024-08-27 14:11:41,287 - INFO - Scheduler started
+2024-08-27 14:11:49,294 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-08-27 14:11:49,301 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2024-08-27 14:11:49,309 - WARNING -  * Debugger is active!
+2024-08-27 14:11:49,312 - INFO -  * Debugger PIN: 806-560-422
+2024-08-27 14:11:49,658 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:49] "[32mGET /dashboard/ HTTP/1.1[0m" 302 -
+2024-08-27 14:11:49,678 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:49] "GET /dashboard/login HTTP/1.1" 200 -
+2024-08-27 14:11:49,772 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:49] "[36mGET /dashboard/static/css/main.css HTTP/1.1[0m" 304 -
+2024-08-27 14:11:50,013 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:50] "[36mGET /dashboard/static/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-08-27 14:11:50,016 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:50] "[36mGET /dashboard/static/img/header.png HTTP/1.1[0m" 304 -
+2024-08-27 14:11:50,134 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:50] "[36mGET /dashboard/static/js/app.js HTTP/1.1[0m" 304 -
+2024-08-27 14:11:50,638 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:50] "[36mGET /dashboard/static/pages/overview.html HTTP/1.1[0m" 304 -
+2024-08-27 14:11:50,890 - INFO - 127.0.0.1 - - [27/Aug/2024 14:11:50] "[36mGET /dashboard/static/img/favicon.ico HTTP/1.1[0m" 304 -
+2024-08-27 14:20:07,397 - INFO -  * Detected change in 'C:\\Users\\ronde\\Desktop\\Ecole IA\\Certification\\E5\\rennes_traffic_ko\\app.py', reloading
+2024-08-27 14:20:07,399 - INFO - Scheduler has been shut down
+2024-08-27 14:20:08,423 - INFO -  * Restarting with stat
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+2024-08-27 14:21:21,862 - INFO - Scheduler has been shut down
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Requête reçue à la route index.
+Affichage de la page d'accueil.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
+Tentative de chargement du modèle...
+Modèle chargé avec succès.
